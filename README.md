@@ -44,10 +44,39 @@ A full-stack Task Management application built with **React** and **Django REST 
 ### FRONDEND
 ![image alt](https://github.com/fidhaGit/Task_manager_app/blob/699c698ff7ac4f1974335b4f55378545488efa86/frond.png)
 
+## Setup Instructions
+
+### Backend setup 
+- cd Backend
+- python -m virtualenv env
+- env\Scripts\activate
+- pip install django djangorestframework djangorestframework-simplejwt django-cors-headers
+- python manage.py makemigrations
+- python manage.py migrate
+- python manage.py runserver
+
+### Frondend setup
+- cd frontend
+- npm install axios react-router-dom
+- npm install react-bootstrap bootstrap
+- npm run dev
+## SCREENSHOTS
+### REGISTERPAGE
 
 ![image alt]()
+
+### LOGINPAGE
 ![image alt]()
+
+### DASHBOARD
+
 ![image alt]()
+
+### ADDTASK
+
 ![image alt]()
+
+### DARKTHEME
+
 ![image alt]()
 
