@@ -4,7 +4,7 @@ A full-stack Task Management application built with **React** and **Django REST 
 
 ---
 
-## 🚀 Features
+## Features
 - User Registration & Login
 - JWT Authentication
 - Create, Edit, Delete Tasks
@@ -16,7 +16,7 @@ A full-stack Task Management application built with **React** and **Django REST 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 - React (Vite)
@@ -32,9 +32,15 @@ A full-stack Task Management application built with **React** and **Django REST 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
+
 -  BACKEND
+
+
 ![image alt](https://github.com/fidhaGit/Task_manager_app/blob/9de7f109739a6c4f3d33e1ecec0cf6e44c869f39/back.png)
+
+
+
 -FRONDEND
 ![image alt]()
 ![image alt]()
