@@ -24,7 +24,7 @@ A full-stack Task Management application built with **React** and **Django REST 
 - Axios
 - React Router
 
-### Backend
+### Backend 
 - Django
 - Django REST Framework
 - Simple JWT
@@ -33,5 +33,13 @@ A full-stack Task Management application built with **React** and **Django REST 
 ---
 
 ## 📁 Project Structure
+-  BACKEND
+![image alt](https://github.com/fidhaGit/Task_manager_app/blob/9de7f109739a6c4f3d33e1ecec0cf6e44c869f39/back.png)
+-FRONDEND
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
 ![image alt]()
 
