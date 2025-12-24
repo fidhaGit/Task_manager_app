@@ -72,8 +72,8 @@ A full-stack Task Management application built with **React** and **Django REST 
 
 ![image alt](https://github.com/fidhaGit/Task_manager_app/blob/2116422e3629c3fc7b01914462a3d037cc183b96/Screenshot%20(35).png)
 
-![image alt]()
-![image alt]()
+![image alt](https://github.com/fidhaGit/Task_manager_app/blob/5b65a23fd1a211e06509af8c2457c489cb25ee4c/Screenshot%20(37).png)
+
 
 ### ADDTASK
 
