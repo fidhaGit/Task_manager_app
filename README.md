@@ -33,4 +33,5 @@ A full-stack Task Management application built with **React** and **Django REST 
 ---
 
 ## 📁 Project Structure
+![image alt]()
 
