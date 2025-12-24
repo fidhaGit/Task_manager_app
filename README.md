@@ -70,6 +70,8 @@ A full-stack Task Management application built with **React** and **Django REST 
 
 ### DASHBOARD
 
+![image alt()
+![image alt]()
 ![image alt]()
 
 ### ADDTASK
